@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello , Je m'appelle BOKOSSA Freud Arthur. Je suis un étudiant en deuxième année d'Intelligence Artificielle à l'Institut de Formation et de Recherche en Informatique (IFRI). Je suis un passionné de data , de tout ce qui est tech notamment le développement web , l'intelligence Artificielle , le cloud computing. Je travaille généralement souvent sur des projets de deep learning de machine learning et de developpement web dans l'espoir d'approfondir de jours en jours mes connaissances sur le sujet. J'aime aussi travailler en équipe parce que c'est un bon moyen d'échanger des idées et des façons de penser differentes
+Vous pouvez me contacter sur 
+LinkedIn : Freud BOKOSSA
+Email : bokossafreud6@gmail.com
