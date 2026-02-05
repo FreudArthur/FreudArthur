@@ -16,17 +16,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💡 Étudiant en Intelligence Artificielle | Passionné de Data & Tech
+### 💡 Étudiant en Intelligence Artificielle | Passionné de Data, Tech , Cloud et DevOps
 
 Hello , Je m'appelle BOKOSSA Freud Arthur. Je suis un étudiant en deuxième année d'Intelligence Artificielle à l'Institut de Formation et de Recherche en Informatique (IFRI). Je suis un passionné de data , de tout ce qui est tech notamment le développement web , l'intelligence Artificielle , le cloud computing. Je travaille généralement souvent sur des projets de  **machine learning**, du **deep learning** et du **développement web**.   dans l'espoir d'approfondir de jours en jours mes connaissances sur le sujet. J'aime aussi travailler en équipe parce que c'est un bon moyen d'échanger des idées et des façons de penser differentes
 
 ### 🧠 Ce que j’apprends / explore actuellement
 - 🤖 Deep Learning & Computer Vision  
-- 🧮 Machine Learning appliqué aux données réelles  
-- 🌐 Développement Web (Django)  
+- 🧮 Machine Learning appliqué aux données réelles
+- ☁️ Cloud avec Microsft Azure 
+- 🌐 Développement Web (Django)
+- 🦈 Docker pour le déploiement des apps
+- 🧑‍⚕️ Analyse et Visualisation de données avec R et Python
+
+### 🧑‍💻 Technologies 
+- Langages de programmation : Python , JavaScript , C , C++ , R , SQL
+- Data & Analyse : MySQL, Excel, Jupyter Notebook
+- DevOps & Tools : Docker, Git/GitHub
  
 ### 📫 Me contacter
-- 💼 [**LinkedIn : Freud BOKOSSA**](https://www.linkedin.com/in/freud-bokossa-4220ba321/)  c
+- 💼 [**LinkedIn : Freud BOKOSSA**](https://www.linkedin.com/in/freud-bokossa-4220ba321/)
 - 📧 **Email :** bokossafreud6@gmail.com  
 
 > 💬 *"Apprendre chaque jour, c’est s’approcher un peu plus de l’excellence. "*
