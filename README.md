@@ -35,7 +35,8 @@ Hello , Je m'appelle BOKOSSA Freud Arthur. Je suis un étudiant en deuxième ann
  
 ### 📫 Me contacter
 - 💼 [**LinkedIn : Freud BOKOSSA**](https://www.linkedin.com/in/freud-bokossa-4220ba321/)
-- 📧 **Email :** bokossafreud6@gmail.com  
+- 📧 **Email :** bokossafreud6@gmail.com
+- 🌐 **Portfolio ** [Freud Arthur](https://freudarthur.github.io/)
 
 > 💬 *"Apprendre chaque jour, c’est s’approcher un peu plus de l’excellence. "*
 > 💬 *"Tant qu'il y a des Maths il y aura toujours une solution à nos problèmes"*  
