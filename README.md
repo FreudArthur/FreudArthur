@@ -16,28 +16,86 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💡 Étudiant en Intelligence Artificielle | Passionné de Data, Tech , Cloud et DevOps
 
-Hello , Je m'appelle BOKOSSA Freud Arthur. Je suis un étudiant en deuxième année d'Intelligence Artificielle à l'Institut de Formation et de Recherche en Informatique (IFRI). Je suis un passionné de data , de tout ce qui est tech notamment le développement web , l'intelligence Artificielle , le cloud computing. Je travaille généralement souvent sur des projets de  **machine learning**, du **deep learning** et du **développement web**.   dans l'espoir d'approfondir de jours en jours mes connaissances sur le sujet. J'aime aussi travailler en équipe parce que c'est un bon moyen d'échanger des idées et des façons de penser differentes
 
-### 🧠 Ce que j’apprends / explore actuellement
-- 🤖 Deep Learning & Computer Vision  
-- 🧮 Machine Learning appliqué aux données réelles
-- ☁️ Cloud avec Microsft Azure 
-- 🌐 Développement Web (Django)
-- 🦈 Docker pour le déploiement des apps
-- 🧑‍⚕️ Analyse et Visualisation de données avec R et Python
 
-### 🧑‍💻 Technologies 
-- Langages de programmation : Python , JavaScript , C , C++ , R , SQL
-- Data & Analyse : MySQL, Excel, Jupyter Notebook
-- DevOps & Tools : Docker, Git/GitHub
+
+<div align="center">
  
-### 📫 Me contacter
-- 💼 [**LinkedIn : Freud BOKOSSA**](https://www.linkedin.com/in/freud-bokossa-4220ba321/)
-- 📧 **Email :** bokossafreud6@gmail.com
-- 🌐 **Portfolio ** [Freud Arthur](https://freudarthur.github.io/)
+# BOKOSSA Freud Arthur 💡
+ 
+**`Data Scientist · AI/ML Engineer · Data Analyst`**
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freud-bokossa-4220ba321/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://freudarthur.github.io/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokossafreud6@gmail.com)
+ 
+</div>
+ 
+---
+ 
+## About Me
+ 
+2nd-year AI student at **IFRI** (Institut de Formation et de Recherche en Informatique), building at the intersection of **data science**, **machine learning**, and **software engineering**.
+ 
+I care about turning raw data into decisions — whether that's through a clean ML pipeline, a sharp visualization, or a deployed AI system. Currently exploring **deep learning**, **NLP**, and **cloud-native** deployment patterns.
+ 
+> *"As long as there is maths, there will always be a solution to our problems."*
+ 
+---
+ 
+## Tech Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+ 
+**Data & ML**
+ 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+ 
+**Web & Deployment**
+ 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
 
-> 💬 *"Apprendre chaque jour, c’est s’approcher un peu plus de l’excellence. "*
-> 💬 *"Tant qu'il y a des Maths il y aura toujours une solution à nos problèmes"*  
-> — Freud Arthur
+ 
+## Currently
+
+- 🧑‍⚕️ Data Analysis and Visualisation with R and Python
+- 🔬 Deepening knowledge in **Deep Learning** **NLP** **Computer Vision** **Audio Traitement**
+- ☁️ Experimenting with **Azure** cloud deployments **FastAPI** for API creation **Docker** for contenerisation 
+- 📊 Competing in **data science challenges**
+ 
+---
+ 
+## GitHub Stats
+ 
+<div align="center">
+ 
+![Freud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreudArthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreudArthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed)
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+*Open to internships, collaborations, and research opportunities.*
+ 
+</div>
