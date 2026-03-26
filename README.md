@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 👋 Salut, moi c’est **Freud Arthur**  
+
 <!--
 **FreudArthur/FreudArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
