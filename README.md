@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 **`Data Scientist · AI/ML Engineer · Data Analyst`**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freud-bokossa-4220ba321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://freudarthur.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://freudarthur.me)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokossafreud6@gmail.com)
  
 </div>
