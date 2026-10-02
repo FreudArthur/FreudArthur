@@ -21,10 +21,14 @@ Here are some ideas to get you started:
 
 
 <div align="center">
- 
+
+
+
 # BOKOSSA Freud Arthur 💡
- 
-**`Data Scientist · AI/ML Engineer · Data Analyst`**
+
+**`AI Student · Machine Learning · Computer Vision · AI Systems`**
+
+Building intelligent systems from mathematical foundations to real-world applications
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freud-bokossa-4220ba321/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://freudarthur.me)
@@ -36,9 +40,15 @@ Here are some ideas to get you started:
  
 ## About Me
  
-2nd-year AI student at **IFRI** (Institut de Formation et de Recherche en Informatique), building at the intersection of **data science**, **machine learning**, and **software engineering**.
- 
-I care about turning raw data into decisions — whether that's through a clean ML pipeline, a sharp visualization, or a deployed AI system. Currently exploring **deep learning**, **NLP**, and **cloud-native** deployment patterns.
+I'm a third-year Artificial Intelligence student at IFRI (Université d'Abomey-Calavi, Benin) interested in understanding how intelligent systems work — from the mathematics and algorithms behind them to their implementation, evaluation, and deployment.
+
+My current focus is Machine Learning and Computer Vision, while exploring Deep Learning, Reinforcement Learning, NLP, and Generative AI.
+
+I learn by building.
+
+Rather than treating models as black boxes, I try to understand the ideas behind them, reproduce core concepts from scratch when possible, experiment with different approaches, and turn them into working systems.
+
+I'm particularly interested in building AI that is efficient, useful, and adapted to real-world constraints, especially in African contexts.
  
 > *"As long as there is maths, there will always be a solution to our problems."*
  
@@ -66,6 +76,7 @@ I care about turning raw data into decisions — whether that's through a clean 
 **Web & Deployment**
  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastApi]()
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -73,23 +84,76 @@ I care about turning raw data into decisions — whether that's through a clean 
  
 
  
-## Currently
+## What I'm Exploring
+### 👁️ Computer Vision
 
-- 🧑‍⚕️ Data Analysis and Visualisation with R and Python
-- 🔬 Deepening knowledge in **Deep Learning** **NLP** **Computer Vision** **Audio Traitement**
-- ☁️ Experimenting with **Azure** cloud deployments **FastAPI** for API creation **Docker** for contenerisation 
-- 📊 Competing in **data science challenges**
+Currently my main area of exploration.
+
+Image classification
+Semantic & instance segmentation
+Object detection
+Representation learning
+Face recognition
+Real-time computer vision
+Vision models and multimodal systems
+
+I'm especially interested in understanding how visual representations are learned and how computer vision systems can operate reliably outside controlled datasets.
+
+### 🧠 Reinforcement Learning
+
+Exploring how agents can learn through interaction rather than static datasets.
+
+Value-based methods
+Policy gradients
+REINFORCE
+DQN
+PPO
+Exploration & exploitation
+Reward design
+GAE
+
+My goal is to progressively connect RL with perception and intelligent decision-making.
+
+### 🤖 Machine Learning & Deep Learning
+
+I enjoy working from the fundamentals:
+
+Probability & statistics
+Optimization
+Neural networks
+CNNs
+Representation learning
+Model evaluation
+Experiment design
+PyTorch
+
+I care about understanding why a model works, not only whether it produces a good score.
+
+### 💬 NLP & Generative AI
+
+Exploring:
+
+Transformers
+Embeddings
+Semantic search
+RAG
+LLM applications
+Small / efficient language models
+Knowledge-grounded AI systems
  
 ---
  
 ## GitHub Stats
  
 <div align="center">
- 
-![Freud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreudArthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreudArthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed)
- 
+
+<a href="https://github.com/FreudArthur">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=FreudArthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" alt="Freud's GitHub Stats" />
+</a>
+<a href="https://github.com/FreudArthur">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FreudArthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed" alt="Freud's Top Languages" />
+</a>
+
 </div>
  
 ---
