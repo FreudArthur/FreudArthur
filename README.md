@@ -153,7 +153,7 @@ Knowledge-grounded AI systems
 <a href="https://github.com/FreudArthur">
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FreudArthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed" alt="Freud's Top Languages" />
 </a>
-
+ 
 </div>
  
 ---
